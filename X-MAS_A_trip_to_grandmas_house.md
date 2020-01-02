@@ -71,7 +71,7 @@ Je me souvenais qu'il avait bon nombre de logiciels pour faire sauter des mots d
 
 Je me suis alors dit que du fait que les systèmes des années 90 était fait pour être facile d'utilisation, facile à maintenir, surtout pour pouvoir se démocratiser auprès des entreprises. 
 
-La gestion système des mots de passes doit être ridumentaire, un fichiers de mots de passes ? (les contrôleurs de domaines de nos jours stockents bien les mots de passes domaines dans un fichier `.dat` donc bon)
+La gestion système des mots de passes doit être rudimentaire, un fichiers de mots de passes ? (les contrôleurs de domaines de nos jours stockents bien les mots de passes domaines dans un fichier `.dat` donc bon)
 
 En surfant un peu sur la toile de l'interweb, j'ai finis par tomber sur un post vieux de 19 ans (sans Internet Wayback Machine, étonnant)
 

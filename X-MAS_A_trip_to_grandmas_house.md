@@ -256,11 +256,11 @@ En effet, en scrutant mieux dans le bordel que j'avais mis dans les `.txt`, j'ai
 Les deux éléments qui m'ont aussi mis la puce à l'oreille sont : 
 
 - 1er indique sur le bureau.
-- 
+
 ![](https://i.imgur.com/5TppzTB.png)
 
 - Le troll de l'auteur.
-- 
+
 ![](https://i.imgur.com/VljXPY6.png)
 
 J'ai donc dû refaire TOUTES les manipulations précédentes pour retrouver les placements d'origines des fichiers `.txt`.
